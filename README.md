@@ -4,6 +4,19 @@ If Positive and Neutral classes are combined and the task turned into vaccine mi
 
 [![Sentiment Analysis of Tweets related to Vaccines](https://img.youtube.com/vi/CAwflRGDlnU/0.jpg)](https://youtu.be/CAwflRGDlnU)
 
+## Files
+> Code:
+- Collect Tweets.ipynb
+- Label Tweets.ipynb
+- Prediction Model.ipynb
+- Sentiment_Analysis_of_Tweets_using_NN.ipynb
+> Dataset:
+- tweets.xlsx, around 340 of 999 tweets labelled with one-hot encoding.
+> Other:
+- auth.py, this contains the keys you get from your twitter developer APIs
+- composition.py, for text preprossessing
+
+
 
 ## Installation
 
