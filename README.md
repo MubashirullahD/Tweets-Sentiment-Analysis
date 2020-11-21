@@ -24,6 +24,8 @@
 
 Clone this repo in a virtual environment folder. Download the dependencies. Hopefully it will work.
 
+$ pip install -r requirements.txt
+
 
 
 ## Meta
