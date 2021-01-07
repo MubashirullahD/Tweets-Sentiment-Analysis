@@ -14,6 +14,7 @@
 - Sentiment_Analysis_of_Tweets_using_NN.ipynb
 > Dataset:
 - tweets.xlsx, around 340 of 999 tweets labelled with one-hot encoding.
+- https://www.kaggle.com/muhammadmdurrani/vaccinetweets
 > Other:
 - auth.py, this contains the keys you get from your twitter developer APIs
 - composition.py, for text preprossessing
